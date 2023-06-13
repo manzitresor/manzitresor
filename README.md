@@ -1,4 +1,4 @@
-### Hi 👋, I'm Manzi Tresor 👨‍💻 
+
 
 <!--
 **manzitresor/manzitresor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm Manzi Tresor 👨‍💻 
+
 I'm a sofware developer. I am passionate about solving issues and developing  efficient software solutions to the community. open to new opportunities.
 
 
