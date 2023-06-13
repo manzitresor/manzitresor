@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a sofware developer. I am passionate about solving issues and developing  efficient software solutions to the community. open to new opportunities.
 
 
-## 🌐 Socials:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manzi-tresor-783b4022a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MANZITresor3) 
 
 # 💻 Tech Stack:
