@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Manzi Tresor 👨‍💻 
+# Hi 👋, I'm Tresor Manzi 👨‍💻 
 
 I'm a sofware developer. I am passionate about solving issues and developing  efficient software solutions to the community. open to new opportunities.
 
