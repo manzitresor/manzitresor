@@ -25,11 +25,12 @@ I'm a sofware developer. I am passionate about solving issues and developing  ef
 - Tools & Platforms: GitHub, Figma, Slack, Vercel
 
 ## Professional Goals 🚀
-**Career Development:** I am dedicated to advancing my career in software development, particularly in positions that utilize my leadership experience and technical expertise to create meaningful tech solutions.
-**Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+- **Career Development:** I am dedicated to advancing my career in software development, particularly in positions that utilize my leadership experience and technical expertise to create meaningful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
-## Connect with me:
-[Linkedin](https://linkedin.com/in/manzi-tresor-783b4022a/)
+## Connect with me 📫:
+- 🐦 [Linkedin](https://linkedin.com/in/manzi-tresor-783b4022a/)
+- 🔗 [Twitter] (https://twitter.com/MANZITresor3) 
 
 
 
