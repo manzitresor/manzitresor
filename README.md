@@ -18,12 +18,19 @@ Here are some ideas to get you started:
 
 I'm a sofware developer. I am passionate about solving issues and developing  efficient software solutions to the community. open to new opportunities.
 
+## Technical Skills 🛠️
+
+Languages: JavaScript, TypeScript, Ruby
+Frameworks & Libraries: React, Next.js, Node.js, Ruby on rails
+Tools & Platforms: GitHub, Figma, Slack, Vercel
+
+## Professional Goals 🚀
+**Career Development:** I am dedicated to advancing my career in software development, particularly in positions that utilize my leadership experience and technical expertise to create meaningful tech solutions.
+**Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manzi-tresor-783b4022a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MANZITresor3) 
+[Linkedin(https://linkedin.com/in/manzi-tresor-783b4022a/)]
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manzitresor&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manzitresor&theme=default&hide_border=false)<br/>
