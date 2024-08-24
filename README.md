@@ -23,9 +23,9 @@ I never realized the true impact of programming until I started taking my laptop
 
 ## 🛠️Technical Skills 
 
-- Languages: JavaScript, TypeScript, Ruby
-- Frameworks & Libraries: React, Next.js, Node.js, Ruby on rails
-- Tools & Platforms: GitHub, Figma, Slack, Vercel
+- **Languages:** JavaScript, TypeScript, Ruby
+- **Frameworks & Libraries:** React, Next.js, Node.js, Ruby on rails
+- **Tools & Platforms:** GitHub, Figma, Slack, Vercel
   
 ## 🌱 Currently Learning
 - Advanced React concepts
