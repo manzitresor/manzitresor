@@ -20,16 +20,18 @@ I'm a sofware developer. I am passionate about solving issues and developing  ef
 
 ## Technical Skills 🛠️
 
-Languages: JavaScript, TypeScript, Ruby
-Frameworks & Libraries: React, Next.js, Node.js, Ruby on rails
-Tools & Platforms: GitHub, Figma, Slack, Vercel
+- Languages: JavaScript, TypeScript, Ruby
+- Frameworks & Libraries: React, Next.js, Node.js, Ruby on rails
+- Tools & Platforms: GitHub, Figma, Slack, Vercel
 
 ## Professional Goals 🚀
 **Career Development:** I am dedicated to advancing my career in software development, particularly in positions that utilize my leadership experience and technical expertise to create meaningful tech solutions.
 **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
 ## Connect with me:
-[Linkedin(https://linkedin.com/in/manzi-tresor-783b4022a/)]
+[[!Linkedin](https://linkedin.com/in/manzi-tresor-783b4022a/)]
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manzitresor&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
