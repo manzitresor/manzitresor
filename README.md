@@ -23,14 +23,12 @@ I never realized the true impact of programming until I started taking my laptop
 
 ## 🛠️Technical Skills 
 
-- **Languages:** JavaScript, TypeScript, Ruby
+- **Languages:** JavaScript, TypeScript, Ruby, Java
 - **Frameworks & Libraries:** React, Next.js, Node.js, Ruby on rails
 - **Tools & Platforms:** GitHub, Figma, Slack, Vercel
   
 ## 🌱 Currently Learning
-- Advanced React concepts
-- State management with Redux
-- Backend basics with Node.js
+- Spring boot
 
 ## 🚀Professional Goals 
 - **Career Development:** I am dedicated to advancing my career in software development, particularly in positions that utilize my leadership experience and technical expertise to create meaningful tech solutions.
